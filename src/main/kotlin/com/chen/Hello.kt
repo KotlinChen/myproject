@@ -1,7 +1,7 @@
 package com.chen
 
 fun main() {
-    val h = Human(weight = 60f,height = 1.7f)
+    val h = Human(weight = 50f,height = 1.7f)
     println("Kotlin BMI:"+h.bmi())
     h.hello()
 
